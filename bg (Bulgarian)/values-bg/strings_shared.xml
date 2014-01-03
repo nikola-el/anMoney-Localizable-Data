@@ -46,11 +46,11 @@
 	<string name="delete">Изтриване</string>
 	<string name="deleted">Deleted</string>
 	<string name="delete_canceled">Delete cancelled</string>
-	<string name="create">Create</string>
-	<string name="created">Created</string>
+	<string name="create">Създай</string>
+	<string name="created">Създадено</string>
 	<string name="create_canceled">Create cancelled</string>
 	<string name="create_what">Create what</string> <!-- This is a question, but the question mark will be added progrmatically -->
-	<string name="edit">Edit</string>
+	<string name="edit">Редактирай</string>
 	<string name="edit_canceled">Edit cancelled</string>
 	<string name="edit_which">Edit which</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="copy">Copy</string>
