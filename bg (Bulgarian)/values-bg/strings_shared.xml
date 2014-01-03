@@ -51,7 +51,7 @@
 	<string name="create_canceled">Create cancelled</string>
 	<string name="create_what">Create what</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="edit">Редактирай</string>
-	<string name="edit_canceled">Edit cancelled</string>
+	<string name="edit_canceled">Редактирането е отменено</string>
 	<string name="edit_which">Edit which</string> <!-- This is a question, but the question mark will be added progrmatically -->
 	<string name="copy">Copy</string>
 	<string name="copied">Copied</string>
