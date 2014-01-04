@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="bg">
 	<string name="two_part_format_normal_width">^1 ^2</string>
 	<string name="two_part_format_full_width">^1 ^2</string>
 	<string name="sentence_end_period_format">^1.</string>
